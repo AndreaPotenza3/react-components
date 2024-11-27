@@ -1,0 +1,23 @@
+.card {
+    border-radius: 20px;
+    overflow: hidden;
+    margin-top: 5rem;
+}
+
+.body {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.8rem;
+    align-items: flex-start;
+    background-color: white;
+}
+
+.image {
+    width: 100%;
+    display: block;
+}
+
+.description {
+    line-height: 1.5rem;
+}
